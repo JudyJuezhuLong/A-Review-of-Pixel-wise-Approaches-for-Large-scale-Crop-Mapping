@@ -1,6 +1,9 @@
 # 🗺️ Prediction Maps for Study Areas
 
 This folder contains full-scene/entire study area prediction and reference maps for three study areas (Site A, Site B, and Site E) used in our manuscript. The prediction results are referenced in key manuscript figures and are summarized below.
+---
+
+📎 For spatial context, see the **[interactive web map](https://judyjuezhulong.github.io/A-Review-of-Pixel-wise-Approaches-for-Large-scale-Crop-Mapping/)** showing the boundaries of all study areas.
 
 ---
 
@@ -49,6 +52,3 @@ This folder contains full-scene/entire study area prediction and reference maps 
 - `SiteE_prediction_map_source_SiteE2023_RF_model_compress.tif`
 - `SiteE_reference_map_2023_resize.jpg`
 
----
-
-📎 For spatial context, see the **[interactive web map](https://judyjuezhulong.github.io/A-Review-of-Pixel-wise-Approaches-for-Large-scale-Crop-Mapping/)** showing the boundaries of all study areas.

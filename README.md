@@ -1,6 +1,6 @@
 # Supplementary Material
 
-**From Time-series Generation, Model Selection to Transfer Learning: A Comparative Review of Pixel-wise Approaches for Large-scale Crop Mapping**
+**From Time-series Generation, Model Selection to Transfer Learning: A Review and Comparative Analysis of Pixel-wise Approaches for Large-scale Crop Mapping**
 
 **doi: https://doi.org/10.48550/arXiv.2507.12590**
 

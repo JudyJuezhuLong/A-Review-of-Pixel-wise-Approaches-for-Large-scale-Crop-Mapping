@@ -51,4 +51,4 @@ This folder contains full-scene/entire study area prediction and reference maps 
 
 ---
 
-📎 For spatial context, see the **[interactive web map](https://judyjuezhulong.github.io/Best-Practices-for-Large-Scale-Pixel-Wise-Crop-Mapping-and-Transfer-Learning-Workflows/)** showing the boundaries of all study areas.
+📎 For spatial context, see the **[interactive web map](https://judyjuezhulong.github.io/A-Review-of-Pixel-wise-Approaches-for-Large-scale-Crop-Mapping/)** showing the boundaries of all study areas.

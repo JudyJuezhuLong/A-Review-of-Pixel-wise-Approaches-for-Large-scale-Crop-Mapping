@@ -1,8 +1,8 @@
 # Supplementary Material
 
-**From Time-series Generation, Model Selection to Transfer Learning: A Review and Comparative Analysis of Pixel-wise Approaches for Large-scale Crop Mapping**
+**From time-series generation and model selection to transfer learning: A review and comparative analysis of pixel-wise approaches for large-scale crop mapping**
 
-**doi: https://doi.org/10.48550/arXiv.2507.12590**
+**https://doi.org/10.1016/j.compag.2026.111646**
 
 Recent advances in machine learning have improved crop mapping efficiency, allowing scalable, automated mapping using ground truth data or prior knowledge. 
 
@@ -99,13 +99,15 @@ This code is for reference and reproducibility. Due to size and resource constra
 
 ## ✔️ Cite the Work
 ```
-@misc{judylong2025,
-      title={Best Practices for Large-Scale, Pixel-Wise Crop Mapping and Transfer Learning Workflows}, 
-      author={Judy Long and Tao Liu and Sean Alexander Woznicki and Miljana Marković and Oskar Marko and Molly Sears},
-      year={2025},
-      eprint={2507.12590},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.12590}, 
-}
+@article{LONG2026111646,
+title = {From time-series generation and model selection to transfer learning: A review and comparative analysis of pixel-wise approaches for large-scale crop mapping},
+journal = {Computers and Electronics in Agriculture},
+volume = {246},
+pages = {111646},
+year = {2026},
+issn = {0168-1699},
+doi = {https://doi.org/10.1016/j.compag.2026.111646},
+url = {https://www.sciencedirect.com/science/article/pii/S0168169926002413},
+author = {Judy Long and Tao Liu and Sean Alexander Woznicki and Miljana Marković and Oskar Marko and Molly Sears},
+keywords = {Crop mapping, Pixel-wise, Large-scale, Deep learning, Transfer learning, Time series}
 ```
